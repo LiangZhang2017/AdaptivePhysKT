@@ -1,2 +1,2 @@
 # AdaptivePhysKT
-This code is used to do knoweledge tracing. 
+This code is used to do Knowledge Tracing.
